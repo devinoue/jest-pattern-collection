@@ -11,6 +11,7 @@ module.exports = {
   },
   rules: {
     "no-var": "error",
+    "import/first": "off",
     "prettier/prettier": [
       "error",
       {
