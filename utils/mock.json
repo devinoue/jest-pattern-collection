@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Takashi",
+      "text": "Hello!"
+    },
+    {
+      "id": 2,
+      "name": "Yoshiko",
+      "text": "Ola!"
+    },
+    {
+      "id": 3,
+      "name": "Kamada",
+      "text": "sample!"
+    }
+  ]
+}
