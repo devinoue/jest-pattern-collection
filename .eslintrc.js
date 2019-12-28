@@ -12,6 +12,7 @@ module.exports = {
   rules: {
     "no-var": "error",
     "import/first": "off",
+    "@typescript-eslint/prefer-readonly": "off",
     "prettier/prettier": [
       "error",
       {
